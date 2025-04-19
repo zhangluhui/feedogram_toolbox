@@ -1,6 +1,6 @@
 <h1><b>Feedogram Toolbox</b></h1>  
 The <a href="https://zhangluhui.shinyapps.io/feedogram_toolbox/">feedogram toolbox</a> is designed to plot feedograms using animal feeding recording data.
-This web app is developed based on the R packages ggetho, zeitgebr, behavr, and archive.
+This web app is developed based on the R packages ggetho, zeitgebr, behavr, archive, fs, and shiny.
 
 <h4><b>App URL:</b></h4>
 <a href="https://zhangluhui.shinyapps.io/feedogram_toolbox/">https://zhangluhui.shinyapps.io/feedogram_toolbox/</a>
